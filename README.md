@@ -1,2 +1,2 @@
 # jGame-square
-https://github.com/Cristian327/jGame-square/issues/1#issue-801710177
+![spaceinvaders](https://user-images.githubusercontent.com/70072891/106967885-de827d80-6715-11eb-9ab0-8fd1651e499a.png)
